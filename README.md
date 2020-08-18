@@ -5,3 +5,6 @@ I'm involved in developing **estuary**, a very flexible distributed deployment/t
 
 ### Estuary stack in action on Katacoda
 https://katacoda.com/dinuta/scenarios/estuary-stack
+
+### Estuary CLI in action on Katacoda
+https://katacoda.com/dinuta/scenarios/estuary-cli
