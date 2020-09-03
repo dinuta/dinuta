@@ -7,8 +7,11 @@ I'm involved in developing **estuary**, a very flexible distributed deployment/t
 https://katacoda.com/dinuta/scenarios/estuary-stack
 
 
-### Agent on Katacoda
+### Estuary-Agent on Katacoda
 https://katacoda.com/dinuta/scenarios/estuary-agent
 
-### CLI on Katacoda
+### Estuary-Discovery on Katacoda
+https://katacoda.com/dinuta/scenarios/estuary-discovery
+
+### Estuary-CLI on Katacoda
 https://katacoda.com/dinuta/scenarios/estuary-cli
